@@ -1,0 +1,7 @@
+input, textarea, select, button {
+    display: inline;
+}
+.my-btn{
+    background-color: lightblue;
+    color: white;
+}
